@@ -1,5 +1,7 @@
-Data/*
-!Data/*.gz
-!Data/*.p
+data/*
+!data/*.gz
+!data/*.p
+results/*
+!*/.githold
 .ipynb_checkpoints
 .vscode
