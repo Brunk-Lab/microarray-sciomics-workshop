@@ -29,3 +29,17 @@ Start Jupyter Lab:
 ```
 jupyter-lab
 ```
+
+## Intro
+- Python Intro
+- Microarray Method and Data
+- PCA
+- Visualization (???)
+- ANOVA/F-Test
+- Multiple Comparisons Correction (Benjamini-Hochberg)
+- Differential Expression & Fold Change
+- Pearson Correlation
+- Gene Sets
+- Pairwise Tukey (probably EC)
+- Volcano Plots
+- DepMap/CCLE
