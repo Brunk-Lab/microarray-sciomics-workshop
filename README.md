@@ -1,6 +1,6 @@
 # SciOmics Microarray Data Workshop
 
-Some really dope words about the global importance of this workshop.
+Description under construction!
 
 ## Requirements
 
